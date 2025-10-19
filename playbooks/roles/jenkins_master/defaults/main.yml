@@ -11,7 +11,7 @@ jenkins_venv_src_dir: "../util/jenkins"
 # Mysql5.7 pkg for focal (There is no mysql5.7 pkg in focal, so we added mysql bionic repo)
 jenkins_install_mysql_5_7: false
 jenkins_mysql_apt_keyserver: "keyserver.ubuntu.com"
-jenkins_mysql_apt_key: "467B942D3A79BD29"
+jenkins_mysql_apt_key: "B7B3B788A8D3785C"
 jenkins_mysql_repo: "deb http://repo.mysql.com/apt//ubuntu/ bionic mysql-5.7"
 
 JENKINS_VERSION: '1.651.3'

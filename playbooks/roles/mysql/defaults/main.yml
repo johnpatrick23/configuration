@@ -34,5 +34,5 @@ DEFAULT_MYSQL_CHARACTER_SET: utf8
 DEFAULT_MYSQL_COLLATION: utf8_general_ci
 
 MYSQL_APT_KEYSERVER: "keyserver.ubuntu.com"
-MYSQL_APT_KEY: "467B942D3A79BD29"
+MYSQL_APT_KEY: "B7B3B788A8D3785C"
 MYSQL_REPO: "deb http://repo.mysql.com/apt//ubuntu/ bionic mysql-5.7"
