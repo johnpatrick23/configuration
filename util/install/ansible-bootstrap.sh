@@ -14,7 +14,7 @@
 set -xe
 
 if [[ -z "${CONFIGURATION_REPO}" ]]; then
-  CONFIGURATION_REPO="https://github.com/openedx/configuration.git"
+  CONFIGURATION_REPO="https://github.com/johnpatrick23/configuration.git"
 fi
 
 if [[ -z "${CONFIGURATION_VERSION}" ]]; then
