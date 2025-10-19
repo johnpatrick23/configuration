@@ -9,7 +9,7 @@
     - install
     - install:system-requirements
 
-- name: install python3.5, 3.6 and 3.8
+- name: install 3.6 and 3.8
   apt:
     name: "{{ item }}"
   with_items:
